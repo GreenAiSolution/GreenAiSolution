@@ -2,6 +2,20 @@
 
 **I build systems that ship with their own evidence.**
 
+> ### 🟢 The business: [greenaidigital.com](https://greenaidigital.com)
+> AI employees for service businesses — each one has a name, one job and a flat monthly price. No per-call meters, no lock-in, and you own everything I build.
+>
+> | Employee | Job | Price |
+> |---|---|---|
+> | [**RING**](https://greenaidigital.com/phone.html) | Answers the phone in ~8 seconds, any hour, and books the job into your calendar | $497/mo |
+> | [**REPLY**](https://greenaidigital.com/leads.html) | Replies to every web form, text, Google, Yelp and Facebook lead in under a minute; follows up day 1, 3, 7 | $397/mo |
+> | [**BOOST**](https://greenaidigital.com/ads.html) | Writes and runs your ads, kills the losers, funds the winners, sends one scoreboard a month | $997/mo |
+> | [**ANSWER**](https://greenaidigital.com/support.html) | Handles the repeat support questions and hands you the ones that need a human | $347/mo |
+> | [**COLLECT**](https://greenaidigital.com/billing.html) | Sends the invoice the day the job closes and chases the late ones politely | $297/mo |
+> | [**Full Staff**](https://greenaidigital.com/staff.html) | All five | $1,797/mo |
+>
+> Watch what happens to a lead with and without one: [the catch demo](https://greenaidigital.com/catch.html) · Hear it answer as your business: [demo](https://greenaidigital.com/demo.html) · jaden@greenaidigital.com
+
 Retrieval engines, agent orchestration, and developer tooling. I design and specify the systems,
 direct AI coding agents to write them, and — the part that actually decides whether any of it is
 worth anything — verify the result against something external.
@@ -97,7 +111,7 @@ CI, not driven by an agent.)
 | [greenai-aether](https://github.com/GreenAiSolution/greenai-aether) | Scroll-cinematic WebGL metropolis for an autonomous agent service. **No framework, no build step.** |
 | [nexus-studio](https://github.com/GreenAiSolution/nexus-studio) | Immersive 3D storefront for designing and buying an AI workforce (Three.js). |
 | [Pixel-Pilot-](https://github.com/GreenAiSolution/Pixel-Pilot-) | Autonomous media-buyer platform presented as an immersive 3D Next.js experience. |
-| [greenai-solutions-group](https://github.com/GreenAiSolution/greenai-solutions-group) | [greenaidigital.com](https://greenaidigital.com) — static site + Cloudflare Worker AI backend. |
+| [greenai-solutions-group](https://github.com/GreenAiSolution/greenai-solutions-group) | [greenaidigital.com](https://greenaidigital.com) — the GreenAI Solutions site: five named AI employees at flat monthly prices. |
 
 ## Private, available on request
 
