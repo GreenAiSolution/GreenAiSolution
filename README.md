@@ -3,18 +3,21 @@
 **I build systems that ship with their own evidence.**
 
 > ### 🟢 The business: [greenaidigital.com](https://greenaidigital.com)
-> AI employees for service businesses — each one has a name, one job and a flat monthly price. No per-call meters, no lock-in, and you own everything I build.
+> Six AI employees for small businesses. Each one works inside an app you already use, has one job and a flat monthly price. No per-call meters, no lock-in, and you own everything we build.
 >
-> | Employee | Job | Price |
-> |---|---|---|
-> | [**RING**](https://greenaidigital.com/phone.html) | Answers the phone in ~8 seconds, any hour, and books the job into your calendar | $497/mo |
-> | [**REPLY**](https://greenaidigital.com/leads.html) | Replies to every web form, text, Google, Yelp and Facebook lead in under a minute; follows up day 1, 3, 7 | $397/mo |
-> | [**BOOST**](https://greenaidigital.com/ads.html) | Writes and runs your ads, kills the losers, funds the winners, sends one scoreboard a month | $997/mo |
-> | [**ANSWER**](https://greenaidigital.com/support.html) | Handles the repeat support questions and hands you the ones that need a human | $347/mo |
-> | [**COLLECT**](https://greenaidigital.com/billing.html) | Sends the invoice the day the job closes and chases the late ones politely | $297/mo |
-> | [**Full Staff**](https://greenaidigital.com/staff.html) | All five | $1,797/mo |
+> 🎬 **New film, 30 seconds: [You closed at six. They didn't.](https://greenaidigital.com/#h-film)**
 >
-> Watch what happens to a lead with and without one: [the catch demo](https://greenaidigital.com/catch.html) · Hear it answer as your business: [demo](https://greenaidigital.com/demo.html) · jaden@greenaidigital.com
+> | Employee | Works inside | Job | Price |
+> |---|---|---|---|
+> | [**RING**](https://greenaidigital.com/ring.html) | Your phone line | Answers every call, any hour, and books the job | $497/mo |
+> | [**DISPATCH**](https://greenaidigital.com/dispatch.html) | Jobber · Housecall Pro · ServiceTitan | Turns a lead into a client, quote and scheduled visit | $497/mo |
+> | [**INBOX**](https://greenaidigital.com/inbox.html) | Google Workspace | Replies to new leads in under a minute and follows up | $397/mo |
+> | [**THREAD**](https://greenaidigital.com/thread.html) | Slack | Answers the team's questions from your own job notes | $347/mo |
+> | [**HUDDLE**](https://greenaidigital.com/huddle.html) | Microsoft Teams | Same brain, inside Teams, plus the morning summary | $347/mo |
+> | [**BOOKS**](https://greenaidigital.com/books.html) | QuickBooks Online | Sends the invoice the day the job closes and chases the late ones politely | $297/mo |
+> | [**Full staff**](https://greenaidigital.com/staff.html) | All six | | $1,797/mo |
+>
+> Also: [websites](https://greenaidigital.com/service-web-design.html) · [AI ad creation](https://greenaidigital.com/service-ai-ads.html) · [custom systems](https://greenaidigital.com/service-ai-consulting.html) · jaden@greenaidigital.com
 
 Retrieval engines, agent orchestration, and developer tooling. I design and specify the systems,
 direct AI coding agents to write them, and — the part that actually decides whether any of it is
