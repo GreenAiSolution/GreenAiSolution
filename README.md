@@ -17,7 +17,7 @@
 > | [**BOOKS**](https://greenaidigital.com/books.html) | QuickBooks Online | Sends the invoice the day the job closes and chases the late ones politely | $297/mo |
 > | [**Full staff**](https://greenaidigital.com/staff.html) | All six | | $1,797/mo |
 >
-> Also: [websites](https://greenaidigital.com/service-web-design.html) · [AI ad creation](https://greenaidigital.com/service-ai-ads.html) · [custom systems](https://greenaidigital.com/service-ai-consulting.html) · jaden@greenaidigital.com
+> Also: [websites](https://greenaidigital.com/service-web-design.html) · [AI ad creation](https://greenaidigital.com/service-ai-ads.html) · [custom systems](https://greenaidigital.com/service-ai-consulting.html) · jaden@greenaidigital.com · Instagram [@greenaidigitals](https://www.instagram.com/greenaidigitals/)
 
 Retrieval engines, agent orchestration, and developer tooling. I design and specify the systems,
 direct AI coding agents to write them, and — the part that actually decides whether any of it is
